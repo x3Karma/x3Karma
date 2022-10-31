@@ -1,4 +1,8 @@
-### Hi there 👋
+### Stuff about me
+
+I probably made a mistake linking my primary email to this account which means I have the most unfortunate choice of making this account public in any resume.
+
+Languages used in the past: Java, Squirrel, SourcePawn
 
 <!--
 **x3Karma/x3Karma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
